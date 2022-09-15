@@ -1,7 +1,7 @@
 variable "resource_group_name" {
   type        = string
   description = "(Optional) Name of resource group to create. Defaults to oidc-test."
-  default     = "oidc-simple-09142022"
+  default     = "oidc-simple-09222022"
 }
 
 variable "location" {
